@@ -1,4 +1,4 @@
-# Lesson 2 Controlling an LED by a Button
+# Lesson 1 Blinking LED
 
 import RPi.GPIO as GPIO
 import time

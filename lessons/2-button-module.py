@@ -1,4 +1,4 @@
-# Lesson 01: Button Module
+# Lesson 2 Controlling an LED by a Button
 
 from gpiozero import Button
 
