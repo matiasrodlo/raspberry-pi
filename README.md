@@ -1,3 +1,7 @@
+Here’s the updated README section with the **Raspberry Pi 4 Touchscreen with Case Fan** added:
+
+---
+
 # Raspberry Pi 4
 
 This repository documents my Raspberry Pi 4 setup, showcasing various projects, configurations, and hardware components involved. It includes hardware specifications, detailed project documentation, and a comprehensive list of components in the kit.
@@ -9,9 +13,10 @@ This repository documents my Raspberry Pi 4 setup, showcasing various projects, 
 ## Hardware Overview
 
 ### Raspberry Pi 4 Model B (8GB RAM)
-- **Processor**: Broadcom BCM2711, Quad-core Cortex-A72 (ARM v8) 64-bit SoC @ 1.5GHz  
-- **Memory**: 8GB LPDDR4-3200 SDRAM  
-- **Connectivity**: Dual-band 802.11ac wireless, Bluetooth 5.0, Gigabit Ethernet  
+
+- **Processor**: Broadcom BCM2711, Quad-core Cortex-A72 (ARM v8) 64-bit SoC @ 1.5GHz
+- **Memory**: 8GB LPDDR4-3200 SDRAM
+- **Connectivity**: Dual-band 802.11ac wireless, Bluetooth 5.0, Gigabit Ethernet
 - **Ports**:
   - 2x USB 3.0
   - 2x USB 2.0
@@ -21,10 +26,14 @@ This repository documents my Raspberry Pi 4 setup, showcasing various projects, 
 - **Power**: USB-C with a 5V/3A power supply required
 
 ### Additional Components
+
 - **4-inch IPS Display**: Full-angle touchscreen with 800x480 resolution, HDMI input, and up to 60fps refresh rate.
 - **SanDisk 256GB Extreme microSDX**: High-performance storage with fast read/write speeds, ideal for Raspberry Pi projects.
 - **Official Raspberry Pi 4 Case**: Durable casing designed by the Raspberry Pi Foundation.
 - **Official Micro USB Power Supply**: Provides stable power for consistent performance.
+- **Raspberry Pi 4 Touchscreen with Case Fan**:
+  - **Touchscreen**: 7-inch display for an integrated interactive experience with multi-touch support.
+  - **Case Fan**: Built-in fan for enhanced cooling and optimal performance during extended use.
 
 ---
 
@@ -70,9 +79,9 @@ Below is a list of all components included in the kit, which are useful for vari
 36. Female-to-Male Dupont Wires
 37. 5-Pin Anti-reverse Cable
 38. 9V Battery Buckle
-39. M3*10 Screws
-40. M2.5*6 Screws
-41. M3*6 Screws
+39. M3\*10 Screws
+40. M2.5\*6 Screws
+41. M3\*6 Screws
 42. RAB Holder
 43. T-Extension
 44. 40-Pin GPIO Header
