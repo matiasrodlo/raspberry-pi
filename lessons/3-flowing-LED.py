@@ -1,3 +1,5 @@
+# Lesson 3 Flowing LED Lights
+
 import RPi.GPIO as GPIO
 import time
 from sys import version_info
