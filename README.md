@@ -1,7 +1,3 @@
-Here’s the updated README section with the **Raspberry Pi 4 Touchscreen with Case Fan** added:
-
----
-
 # Raspberry Pi 4
 
 This repository documents my Raspberry Pi 4 setup, showcasing various projects, configurations, and hardware components involved. It includes hardware specifications, detailed project documentation, and a comprehensive list of components in the kit.
